@@ -1,5 +1,5 @@
 - 💬 Hi, I’m @anafelizatti
-- 😻 I’m interested in Backend and Frontend
+- 😻 I’m interested in Web Development
 - 🧠 I’m currently learning RoR, CSS, JS and React.
 - 📕 I’m currently reading Clean Code and Rails AntiPatterns.
 - 📫 You can reach me at apfelizatti@gmail.com
