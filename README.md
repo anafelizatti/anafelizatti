@@ -1,7 +1,7 @@
 - 💬 Hi, I’m @anafelizatti
 - 😻 I’m interested in Web Development
 - 🧠 I’m currently learning RoR, CSS, JS and Vue.js.
-- 📕 I’m currently reading Clean Code and Rails AntiPatterns.
+- 📕 I’m currently reading Clean Code, Rails AntiPatterns and Ruby under a Microscope
 - 📫 You can reach me at apfelizatti@gmail.com
 
 <!---
